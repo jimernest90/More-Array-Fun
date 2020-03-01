@@ -1,7 +1,5 @@
 # More-Array-Fun
 
-### please fork and clone down this repository. 
-
 #### question 1 
 - make an array of names.
 
